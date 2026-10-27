@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Chicken Burger",
+    "description": "Grilled chicken, crisp lettuce, tomato and our creamy house sauce in a toasted sesame bun.",
+    "price": 480,
+    "category": "Fast Food",
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=900&q=85",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Masala Omelette Paratha",
+    "description": "A fluffy two-egg masala omelette served with a flaky, freshly cooked paratha.",
+    "price": 260,
+    "category": "Breakfast",
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=900&q=85",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Crispy Zinger Wrap",
+    "description": "Crunchy spiced chicken, crunchy slaw and tangy mayo wrapped up for your lunch break.",
+    "price": 420,
+    "category": "Fast Food",
+    "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=900&q=85",
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Loaded Masala Fries",
+    "description": "Golden fries tossed in chatpata masala and finished with a drizzle of garlic mayo.",
+    "price": 220,
+    "category": "Snacks",
+    "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=900&q=85",
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Chicken Biryani Bowl",
+    "description": "Fragrant basmati rice layered with tender chicken, warm spices and a side of raita.",
+    "price": 390,
+    "category": "Lunch",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=900&q=85",
+    "available": true
+  },
+  {
+    "id": 6,
+    "name": "Fresh Lime Soda",
+    "description": "A refreshing blend of fresh lime, sparkling soda and a hint of mint.",
+    "price": 150,
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=900&q=85",
+    "available": true
+  },
+  {
+    "id": 7,
+    "name": "Chocolate Fudge Brownie",
+    "description": "Rich, fudgy chocolate brownie baked fresh and perfect for a study break.",
+    "price": 190,
+    "category": "Desserts",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=900&q=85",
+    "available": true
+  },
+  {
+    "id": 8,
+    "name": "Aloo Samosa (2 pcs)",
+    "description": "Two crisp pastry parcels filled with spiced potato, served with mint chutney.",
+    "price": 120,
+    "category": "Snacks",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=900&q=85",
+    "available": true
+  },
+  {
+    "id": 9,
+    "name": "Doodh Patti Chai",
+    "description": "Comforting, strong-brewed Pakistani tea simmered with fresh milk.",
+    "price": 90,
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?auto=format&fit=crop&w=900&q=85",
+    "available": true
+  },
+  {
+    "id": 10,
+    "name": "Pancake Stack",
+    "description": "Three soft pancakes served with honey, seasonal fruit and a dusting of sugar.",
+    "price": 310,
+    "category": "Breakfast",
+    "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=900&q=85",
+    "available": true
+  },
+  {
+    "id": 11,
+    "name": "Creamy Club Sandwich",
+    "description": "A triple-decker with chicken, egg, fresh vegetables and a side of golden chips.",
+    "price": 360,
+    "category": "Fast Food",
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=900&q=85",
+    "available": true
+  },
+  {
+    "id": 12,
+    "name": "Mango Smoothie",
+    "description": "A chilled, creamy smoothie blended with ripe mango and a splash of yogurt.",
+    "price": 240,
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1505252585461-04db1eb84625?auto=format&fit=crop&w=900&q=85",
+    "available": true
+  }
+]
